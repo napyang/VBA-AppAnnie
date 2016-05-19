@@ -30,7 +30,10 @@ Define data:
 
 #Screenshots
 
+Data screenshot:
 ![image](https://github.com/napyang/VBA-AppAnnie/raw/master/screenshots/Example.png)
+
+Pie Chart screenshot:
 ![image](https://github.com/napyang/VBA-AppAnnie/raw/master/screenshots/PieChart.png)
 
 #About
