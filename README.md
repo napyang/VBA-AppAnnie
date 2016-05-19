@@ -31,7 +31,7 @@ Define data:
 #Pictures
 
 ![image](https://github.com/napyang/VBA-AppAnnie/screenshots/Example.png)
-![image](https://github.com/napyang/VBA-AppAnnie/raw/master/screenshots/PieChart.jpg)
+![image](https://github.com/napyang/VBA-AppAnnie/raw/master/screenshots/PieChart.png)
 
 #About
 
