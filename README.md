@@ -29,7 +29,8 @@ Define data:
 10. Counts-year/month/date(regions which this game in the top grossing list)
 
 #Pictures
-![alt tag](https://raw.githubusercontent.com/napyang/VBA-AppAnnie/master/Pics/to/Example.png)
+![image](https://github.com/napyang/VBA-AppAnnie/raw/master/screenshots/Example.jpg)
+![image](https://github.com/napyang/VBA-AppAnnie/raw/master/screenshots/PieChart.jpg)
 
 #About
 
